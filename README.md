@@ -10,5 +10,4 @@
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+-Me gusta la tecnologia, amo escuchar música todo el dia, entreno taekwondo, y me gusta estar en movimiento todo el tiempo.
