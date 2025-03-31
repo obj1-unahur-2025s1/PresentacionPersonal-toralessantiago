@@ -4,8 +4,9 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es Santiago Torales
+- Vivo en Jose C Paz
+- Tengo 19 años
 
 
 ### Otra Información
