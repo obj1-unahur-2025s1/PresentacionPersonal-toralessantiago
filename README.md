@@ -11,3 +11,4 @@
 
 ### Otra Información
 -Me gusta la tecnologia, amo escuchar música todo el dia, entreno taekwondo, y me gusta estar en movimiento todo el tiempo.
+-Tengo un perro que se llama Panchi
